@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="30mm"
+   viewBox="0 0 50 30"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="label.png"
+   inkscape:export-xdpi="203.2"
+   inkscape:export-ydpi="203.2"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="label.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.2784722"
+     inkscape:cx="121.8893"
+     inkscape:cy="55.043013"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.80811px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.170203"
+       x="1.9783648"
+       y="8.9509945"
+       id="text236"><tspan
+         sodipodi:role="line"
+         id="tspan234"
+         style="stroke-width:0.170203"
+         x="1.9783648"
+         y="8.9509945">Resistor</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.170203"
+         x="1.9783648"
+         y="17.461132"
+         id="tspan238">0805</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.170203"
+         x="1.9783648"
+         y="25.97127"
+         id="tspan240">100Ω 0.1W 1%</tspan></text>
+  </g>
+</svg>
