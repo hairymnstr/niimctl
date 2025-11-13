@@ -129,17 +129,20 @@ if imagename == None:
     error_exit("You must provide the image name to load and print", -1)
 
 im = Image.open(imagename)
-if not im.size == (400,240):
-    error_exit("Image must be 400x240 pixels", -1)
+width, height = im.size
+if width > 400:
+    error_exit("Image must be less than 400 pixels wide", -1)
+if width % 8:
+    error_exit("Image must be a multiple of 8 pixels wide", -1)
 
 im.convert("1")
 xim = im.load()
 
 rows = []
 
-for y in range(240):
+for y in range(height):
     rows.append([0] * 50)
-    for x in range(400):
+    for x in range(width):
         if xim[x, y][0] == 0:
             rows[y][x // 8] = rows[y][x // 8] | (1 << (7 - (x % 8)))
 
@@ -175,7 +178,7 @@ for page in pages:
     # set page size
     # 13 byte variant, row, col, copies, unknown 0, unknown 0, unknown 0, unknown 0
     debug_print("Set page size")
-    send_packet(s, 0x13, struct.pack(">HHH", 240, 400, 1))
+    send_packet(s, 0x13, struct.pack(">HHH", height, width, 1))
     print(recv_packet(s))
 
     # print row (repeat)

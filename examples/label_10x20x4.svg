@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="20mm"
+   viewBox="0 0 50 20"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="label.png"
+   inkscape:export-xdpi="203.2"
+   inkscape:export-ydpi="203.2"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="label_10x20x4.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.2784722"
+     inkscape:cx="117.3316"
+     inkscape:cy="55.043013"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <sodipodi:guide
+       position="25,22.226261"
+       orientation="-1,0"
+       id="guide914"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="15,25.070929"
+       orientation="-1,0"
+       id="guide916"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="4.9999999,25.936698"
+       orientation="-1,0"
+       id="guide918"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="34.999999,21.236812"
+       orientation="-1,0"
+       id="guide920"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="44.999999,24.514364"
+       orientation="-1,0"
+       id="guide922"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:2.62654px;line-height:1.25;font-family:sans-serif;stroke-width:0.140707"
+       x="-18.316923"
+       y="9.2834845"
+       id="text978"
+       transform="matrix(0,-0.99790469,1.0020997,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan976"
+         style="stroke-width:0.140707"
+         x="-18.316923"
+         y="9.2834845">Resistor 0805</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.140707"
+         x="-18.316923"
+         y="12.566659"
+         id="tspan980">33Ω 5% 0.1W</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.6446px;line-height:1.25;font-family:sans-serif;stroke-width:0.141674"
+       x="-19.351"
+       y="18.683056"
+       id="text1034"
+       transform="matrix(0,-0.97014025,1.0307788,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1032"
+         style="stroke-width:0.141674"
+         x="-19.351"
+         y="18.683056">Resistor 0805</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.141674"
+         x="-19.351"
+         y="21.988806"
+         id="tspan1036">100Ω 5% 0.1W</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.74759px;line-height:1.25;font-family:sans-serif;stroke-width:0.147192"
+       x="-18.73871"
+       y="29.347876"
+       id="text1055"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1053"
+         style="stroke-width:0.147192"
+         x="-18.73871"
+         y="29.347876">Resistor 0805</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.147192"
+         x="-18.73871"
+         y="32.782364"
+         id="tspan1057">1kΩ 1% 0.1W</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.53861px;line-height:1.25;font-family:sans-serif;stroke-width:0.135996"
+       x="-18.628738"
+       y="39.310928"
+       id="text1061"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1059"
+         style="stroke-width:0.135996"
+         x="-18.628738"
+         y="39.310928">Resistor 0805</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.135996"
+         x="-18.628738"
+         y="42.484192"
+         id="tspan1063">270Ω 1% 0.1W</tspan></text>
+  </g>
+</svg>

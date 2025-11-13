@@ -21,7 +21,11 @@ No special versions of Python or these dependencies are required, I built it on 
 
 There's an example label in the examples folder.  This is just an Inkscape SVG I created and set the page size to 50x30mm.  To print it you need to first invoke Inkscape from the command line to export an SVG:
 
-    inkscape --export-width=400 --export-type=png --export-filename=examples/label.png examples/label.svg
+    inkscape --export-width=384 --export-type=png --export-filename=examples/label.png examples/label.svg
+
+There's also an example for the 10x20mm labels which come in groups of 4 so you need to print 4 labels at once effectively a 40x20 label.  The 40mm label sits in the middle of the 50mm printer, the example uses guides to split the space up into 4 areas for each of the labels.  Export as a single PNG:
+
+    inkscape --export-width=384 --export-type=png --export-filename=examples/label.png examples/label_10x20x4.svg
 
 Then send that to the printer:
 
